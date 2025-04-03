@@ -1,6 +1,6 @@
 # LLM-Engineering-Master-AI-LLM-models-and-AI-Agents
 
-### 🚀 Mastering LLM Engineering in 8 Weeks
+## 🚀 Mastering LLM Engineering in 8 Weeks
 
 This repository documents my journey through an 8-week hands-on course on **Large Language Model (LLM) Engineering**, covering cutting-edge techniques in prompt engineering, fine-tuning, RAG pipelines, agentic AI, and more — using tools like **OpenAI**, **Claude**, **Hugging Face**, **Gradio**, and **Olama**.
 
